@@ -103,7 +103,7 @@ Os produtos apícolas são matrizes farmacológicas complexas com ampla validaç
 #### Desafios e o Futuro (Apicultura 4.0)
 O setor enfrenta ameaças como o uso indiscriminado de agrotóxicos e mudanças climáticas. A modernização passa pela Apicultura 4.0, integrando sensores de IoT (monitoramento de peso e temperatura em tempo real) e rastreabilidade via blockchain, exigências crescentes para o mercado internacional.
 
-#### Um glossário com os principais conceitos aprendidos
+#### Glossário com os principais conceitos aprendidos
 
 **A**  
 - Abelha Africanizada: Híbrido resultante da mistura de subespécies europeias e africanas, predominante no Brasil; destaca-se pela rusticidade, alta produtividade e comportamento defensivo.
@@ -158,4 +158,32 @@ O setor enfrenta ameaças como o uso indiscriminado de agrotóxicos e mudanças 
 **Z**
 - Zangão: Macho da colmeia, originado de ovos não fecundados (partenogênese); sua única função é fecundar a rainha virgem.
 
-### Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema
+#### Prompts reutilizáveis que possam apoiar futuras revisões sobre o tema
+
+##### Prompts divididos por categorias estratégicas:
+
+**Gestão Econômica e Viabilidade Financeira**   
+Prompt de Retorno de Investimento: Explique detalhadamente por que o tempo médio de retorno do investimento (ROI) na apicultura é estimado em 18 meses e quais estratégias o apicultor deve adotar para garantir que esse prazo não se estenda para 3 ou 5 anos.
+
+Prompt de Estratégia de Venda: Compare as margens de lucro entre a venda de mel no atacado (commodities) e a estratégia de verticalização (venda direta ao varejo com marca própria), citando como isso impacta o faturamento anual de um apiário de 30 colmeias.
+
+Prompt de Diversificação: Como a colmeia pode ser explorada como uma 'biofábrica' para triplicar o faturamento através da produção de própolis verde, pólen e apitoxina, além do serviço de polinização dirigida?
+
+**Manejo Técnico e Biologia Aplicada**  
+Prompt de Manejo Sazonal: Descreva as ações críticas do apicultor durante as quatro fases do ciclo produtivo: Pré-Safra, Safra, Colheita e Entressafra, focando especialmente na importância da alimentação suplementar e na troca de cera.
+
+Prompt de Biologia das Castas: "Explique as funções e o desenvolvimento das três castas da colmeia (Rainha, Operária e Zangão), destacando o papel da Geleia Real na longevidade da rainha e o processo de partenogênese dos zangões.
+
+Prompt de Captura e Instalação: "Quais são os passos técnicos para confeccionar e instalar caixas isca com feromônios para capturar enxames gratuitamente, e qual o momento ideal para realizar a transferência para a colmeia definitiva?
+
+**Propriedades Bioativas e Aplicações Clínicas**  
+Prompt de Cicatrização e Mel: Quais são os quatro pilares bioquímicos que conferem ao mel uma eficácia superior no tratamento de queimaduras e feridas infectadas, em comparação com curativos convencionais?
+
+Prompt de Componentes Específicos: Explique as propriedades imunomoduladoras do Ácido 10-HDA da Geleia Real e a ação antitumoral do CAPE presente na própolis, citando evidências de estudos clínicos para o manejo de diabetes e inflamações crônicas.
+
+Prompt de Apiterapia Avançada: Discuta o uso do veneno de abelha (apitoxina) e da melitina em tratamentos modernos para acne grave, varizes e doenças neurológicas, ressaltando os cuidados necessários com reações alérgicas.
+
+**Legislação, Tecnologia e Sustentabilidade**  
+Prompt de Diferenciação Legal: Quais as principais diferenças regulatórias e produtivas entre a criação de abelhas com ferrão (Apis mellifera) e a meliponicultura (abelhas nativas sem ferrão) no contexto da legislação ambiental brasileira?
+
+Prompt de Inovação (Apicultura 4.0): Como a integração de tecnologias de IoT (Internet das Coisas) e rastreabilidade via blockchain pode aumentar a eficiência produtiva e abrir novos mercados internacionais para o mel brasileiro?
