@@ -27,38 +27,51 @@ Príncipais questionamentos por área:
 Gestão Econômica e Empreendedorismo
 
 **Pergunta:** Quais as estratégias recomendadas pelo Professor Armindo para reduzir o payback da apicultura de 3,3 anos para menos de 1,5 anos?
+
 **Objetivo:** Esta pergunta explora a diferença entre a venda de commodity (atacado) e a verticalização (varejo com marca própria).
 
 **Pergunta:** Como a diversificação para produtos de alto valor agregado, como a própolis verde e o veneno, pode triplicar o faturamento por colmeia?
-Esta questão foca na colmeia como uma "biofábrica" multiproduto.
+
+**Objetivo:** Esta questão foca na colmeia como uma "biofábrica" multiproduto.
 
 **Pergunta:** Qual é o passo a passo para iniciar um apiário com 30 colmeias investindo menos de R$ 20.000,00?"
-Ideal para entender o planejamento inicial, captura gratuita de enxames e custos de EPIs.
+
+**Objetivo:** Ideal para entender o planejamento inicial, captura gratuita de enxames e custos de EPIs.
 
 Manejo Técnico e Biologia Aplicada
+
 **Pergunta:** Quais os riscos e as técnicas de manejo durante a 'entressafra' para evitar o abandono ou a morte do enxame por inanição?
-Aborda a alimentação suplementar energética e proteica.
+
+**Objetivo:** Aborda a alimentação suplementar energética e proteica.
 
 **Pergunta:** Como funciona a técnica da 'caixa isca' para capturar enxames de graça e qual o melhor período para isso no Cerrado vs. Nordeste?
-Explora a economia no material biológico e o calendário apícola.
+
+**Objetivo:** Explora a economia no material biológico e o calendário apícola.
 
 **Pergunta:** Qual a importância da troca anual de 30% dos favos e como isso impacta a sanidade e a produtividade da colônia?
-Foca na manutenção preventiva e renovação biológica
+
+**Objetivo:** Foca na manutenção preventiva e renovação biológica
 
 Propriedades Bioativas e Aplicações Clínicas
 
 **Pergunta:** Quais os mecanismos bioquímicos que tornam o mel superior aos curativos convencionais no tratamento de queimaduras e feridas cirúrgicas infectadas?
-Esta pergunta extrai dados das revisões da Cochrane e estudos clínicos sobre osmolaridade e peróxido de hidrogênio.
+
+**Objetivo:** Esta pergunta extrai dados das revisões da Cochrane e estudos clínicos sobre osmolaridade e peróxido de hidrogênio.
 
 **Pergunta:** Como o ácido 10-HDA da Geleia Real atua na imunomodulação humana e quais evidências existem para o tratamento de diabetes?
-Conecta a biologia da rainha com benefícios metabólicos documentados.
+
+**Objetivo:** Conecta a biologia da rainha com benefícios metabólicos documentados.
 
 **Pergunta:** De que forma o veneno de abelha (apitoxina) e a melitina estão sendo utilizados no tratamento de acne grave e doenças oncológicas?
-Explora as fronteiras da apiterapia moderna e nanotecnologia.
+
+**Objetivo:** Explora as fronteiras da apiterapia moderna e nanotecnologia.
 
 Visão Estratégica e Futuro (Apicultura 4.0)
+
 **Pergunta:** O que é a 'Apicultura 4.0' e como o uso de sensores IoT e rastreabilidade via blockchain pode abrir o mercado europeu para o produtor brasileiro?
-Foca na modernização tecnológica e exigências de exportação.
+
+**Objetivo:** Foca na modernização tecnológica e exigências de exportação.
 
 **Pergunta:** Como a polinização dirigida pode aumentar a produtividade de culturas como o abacate em até 800% e gerar renda passiva para o apicultor?
-Aborda o serviço ambiental como modelo de negócio.
+
+**Objetivo:** Aborda o serviço ambiental como modelo de negócio.
