@@ -25,6 +25,7 @@ Comportamento da IA: Comporte-se como um segundo cérebro baseado nos conhecimen
 Príncipais questionamentos por área:
 
 1. Gestão Econômica e Empreendedorismo
+
 **Pergunta:** Quais as estratégias recomendadas pelo Professor Armindo para reduzir o payback da apicultura de 3,3 anos para menos de 1,5 anos?
 **Objetivo:** Esta pergunta explora a diferença entre a venda de commodity (atacado) e a verticalização (varejo com marca própria).
 "Como a diversificação para produtos de alto valor agregado, como a própolis verde e o veneno, pode triplicar o faturamento por colmeia?" Esta questão foca na colmeia como uma "biofábrica" multiproduto
