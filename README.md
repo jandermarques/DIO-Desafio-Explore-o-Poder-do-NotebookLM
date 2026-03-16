@@ -159,8 +159,7 @@ O setor enfrenta ameaças como o uso indiscriminado de agrotóxicos e mudanças 
 - Zangão: Macho da colmeia, originado de ovos não fecundados (partenogênese); sua única função é fecundar a rainha virgem.
 
 #### Prompts reutilizáveis que possam apoiar futuras revisões sobre o tema
-
-##### Prompts divididos por categorias estratégicas:
+*Prompts divididos por categorias estratégicas*
 
 **Gestão Econômica e Viabilidade Financeira**   
 Prompt de Retorno de Investimento: Explique detalhadamente por que o tempo médio de retorno do investimento (ROI) na apicultura é estimado em 18 meses e quais estratégias o apicultor deve adotar para garantir que esse prazo não se estenda para 3 ou 5 anos.
