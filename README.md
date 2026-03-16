@@ -17,3 +17,8 @@ Para o desenvolvimento do projeto, o tema escolhido foi Apicultura. A ideia foi 
 🐝[Tudo o que você precisa saber para COMEÇAR NA APICULTURA!](https://www.youtube.com/watch?v=lxBSO0i1ypI)
 
 🐝[30 Colmeias: o que você precisa e quanto custa?](https://www.youtube.com/watch?v=HeeY3MT7IRY)
+
+### Engenharia de Prompts e "Cicatrizes":
+
+Comportamento da IA: Comporte-se como um segundo cérebro baseado nos conhecimento de apicultura; manejo das colmeias; benefícios do consumo de mel e derivados e da apicultura como atividade econômica.
+
