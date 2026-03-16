@@ -103,6 +103,59 @@ Os produtos apícolas são matrizes farmacológicas complexas com ampla validaç
 #### Desafios e o Futuro (Apicultura 4.0)
 O setor enfrenta ameaças como o uso indiscriminado de agrotóxicos e mudanças climáticas. A modernização passa pela Apicultura 4.0, integrando sensores de IoT (monitoramento de peso e temperatura em tempo real) e rastreabilidade via blockchain, exigências crescentes para o mercado internacional.
 
-### Um glossário com os principais conceitos aprendidos
+#### Um glossário com os principais conceitos aprendidos
+
+**A**  
+- Abelha Africanizada: Híbrido resultante da mistura de subespécies europeias e africanas, predominante no Brasil; destaca-se pela rusticidade, alta produtividade e comportamento defensivo.
+- Ácido 10-hidroxidecenoico (10-HDA): Ácido graxo exclusivo da Geleia Real, utilizado como marcador de qualidade e possuidor de propriedades imunomoduladoras e neuroprotetoras.
+- Alimentação Suplementar: Prática realizada na entressafra para evitar a fome do enxame; pode ser energética (xarope de açúcar) ou proteica (substitutos de pólen).
+- Apiário: Local físico planejado onde são instaladas as colmeias para produção.
+- Apiterapia: Uso medicinal dos produtos das abelhas (mel, veneno, própolis, etc.) para tratamento de doenças e melhora da saúde.
+- Apitoxina (Veneno de Abelha): Substância rica em melitina, com propriedades analgésicas e anti-inflamatórias, utilizada em tratamentos de acne, varizes e dores crônicas.
+
+**C**
+- Caixa Isca: Recipiente (geralmente de papelão ou madeira) com feromônio utilizado para capturar enxames migratórios de forma gratuita.
+- CAPE (Éster fenetílico do ácido cafeico): Composto bioativo da própolis com forte ação antioxidante e antitumoral.
+- Casa de Mel: Unidade de beneficiamento onde o mel é extraído e processado sob rigorosas normas sanitárias.
+- Cera de Abelha: Substância lipofílica produzida pelas abelhas operárias, utilizada para construir os favos e como componente da própolis.
+- Colmeia Langstroth: Modelo de colmeia padronizado mundialmente que respeita o "espaço abelha", facilitando o manejo e a extração.
+
+**E**
+- Entressafra: Período do ano com escassez de flores, exigindo manejo preventivo para evitar o abandono ou morte das abelhas por inanição.
+- Espaço Abelha: Distância específica que as abelhas deixam entre os favos, que permite sua movimentação sem que vedem o local com própolis ou cera.
+
+**F**
+- Feromônio: Substância química emitida pela rainha para manter a unidade, organização e controle reprodutivo da colônia.
+- Fumigador: Ferramenta indispensável que produz fumaça fria para acalmar as abelhas durante o manejo, simulando um incêndio e induzindo-as a comer mel.
+
+**G**
+- Geleia Real: Secreção ácida das abelhas nutrizes usada para alimentar a rainha durante toda a vida, conferindo-lhe longevidade e fertilidade.
+
+**M**
+- Mel: Solução supersaturada de açúcares produzida a partir do néctar; possui propriedades antimicrobianas devido ao seu pH ácido, alta osmolaridade e produção de peróxido de hidrogênio.
+- Melgueira: Parte superior da colmeia destinada exclusivamente ao armazenamento de mel para colheita pelo apicultor.
+- Melitina: Principal peptídeo do veneno de abelha, capaz de lisar membranas celulares e atuar contra processos inflamatórios e oncológicos.
+
+**N**
+- Ninho (Câmara de Cria): Compartimento central da colmeia onde a rainha realiza a postura e onde se desenvolvem as larvas.
+
+**O**
+- Operária: Fêmea estéril responsável por todas as funções da colmeia (coleta, limpeza, defesa); vive em média 42 dias.
+
+**P**
+- Pasto Apícola: Conjunto de plantas melíferas em volta do apiário que fornecem néctar e pólen.
+- Pólen Apícola: Considerado um "superalimento", é a fonte de proteína das abelhas e rico em vitaminas e aminoácidos para consumo humano.
+- Própolis: Resina coletada de plantas e misturada com cera, usada para vedar a colmeia e como potente agente antimicrobiano e cicatrizante.
+
+**R**
+- Rainha: Única fêmea fértil da colônia, responsável pela reprodução; vive até 5 anos.
+- Realeira: Célula especial, maior que as comuns, onde as operárias criam uma nova rainha.
+- ROI (Retorno sobre Investimento): Na apicultura profissional, o tempo médio para recuperar o capital investido é estimado em 18 meses.
+
+**V**
+- Verticalização: Estratégia econômica de vender o mel diretamente ao consumidor (varejo) com marca própria, aumentando significativamente a lucratividade em relação à venda no atacado.
+
+**Z**
+- Zangão: Macho da colmeia, originado de ovos não fecundados (partenogênese); sua única função é fecundar a rainha virgem.
 
 ### Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema
