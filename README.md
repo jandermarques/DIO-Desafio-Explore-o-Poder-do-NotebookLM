@@ -4,7 +4,7 @@ Projeto com o objetivo de gerar um NotebookLM, explorando as funcionalidades e f
 
 Para o desenvolvimento do projeto, o tema escolhido foi Apicultura. A ideia foi escolher um tema que eu não tenho conhecimento, justamente para explorar o poder da ferramenta e descobrir se ela é capaz de ajudar no aprendizado de uma área de conhecimento até então desconhecida.
 
-### Curadoria de Fontes
+## Curadoria de Fontes
 
 🐝[Pesquisadores descobrem propriedades curativas no veneno de abelha](https://www.infobeebr.com.br/noticias/pesquisadores-descobrem-propriedades-curativas-no-veneno-de-abelha/)
 
@@ -18,60 +18,49 @@ Para o desenvolvimento do projeto, o tema escolhido foi Apicultura. A ideia foi 
 
 🐝[30 Colmeias: o que você precisa e quanto custa?](https://www.youtube.com/watch?v=HeeY3MT7IRY)
 
-### Engenharia de Prompts e "Cicatrizes":
+## Engenharia de Prompts e "Cicatrizes":
 
 Comportamento da IA: Comporte-se como um segundo cérebro baseado nos conhecimento de apicultura; manejo das colmeias; benefícios do consumo de mel e derivados e da apicultura como atividade econômica.
 
-Príncipais questionamentos por área:
+### Príncipais questionamentos por área:
 
-Gestão Econômica e Empreendedorismo
+#### 💡 Gestão Econômica e Empreendedorismo
 
-**Pergunta:** Quais as estratégias recomendadas pelo Professor Armindo para reduzir o payback da apicultura de 3,3 anos para menos de 1,5 anos?
+**Pergunta:** Quais as estratégias recomendadas pelo Professor Armindo para reduzir o payback da apicultura de 3,3 anos para menos de 1,5 anos?  
+:memo: **Objetivo:** Esta pergunta explora a diferença entre a venda de commodity (atacado) e a verticalização (varejo com marca própria).
 
-**Objetivo:** Esta pergunta explora a diferença entre a venda de commodity (atacado) e a verticalização (varejo com marca própria).
+**Pergunta:** Como a diversificação para produtos de alto valor agregado, como a própolis verde e o veneno, pode triplicar o faturamento por colmeia?  
+:memo: **Objetivo:** Esta questão foca na colmeia como uma "biofábrica" multiproduto.
 
-**Pergunta:** Como a diversificação para produtos de alto valor agregado, como a própolis verde e o veneno, pode triplicar o faturamento por colmeia?
+**Pergunta:** Qual é o passo a passo para iniciar um apiário com 30 colmeias investindo menos de R$ 20.000,00?  
+:memo: **Objetivo:** Ideal para entender o planejamento inicial, captura gratuita de enxames e custos de EPIs.
 
-**Objetivo:** Esta questão foca na colmeia como uma "biofábrica" multiproduto.
+#### 💡 Manejo Técnico e Biologia Aplicada
 
-**Pergunta:** Qual é o passo a passo para iniciar um apiário com 30 colmeias investindo menos de R$ 20.000,00?"
+**Pergunta:** Quais os riscos e as técnicas de manejo durante a 'entressafra' para evitar o abandono ou a morte do enxame por inanição?  
+:memo: **Objetivo:** Aborda a alimentação suplementar energética e proteica.
 
-**Objetivo:** Ideal para entender o planejamento inicial, captura gratuita de enxames e custos de EPIs.
+**Pergunta:** Como funciona a técnica da 'caixa isca' para capturar enxames de graça e qual o melhor período para isso no Cerrado vs. Nordeste?  
+:memo: **Objetivo:** Explora a economia no material biológico e o calendário apícola.
 
-Manejo Técnico e Biologia Aplicada
+**Pergunta:** Qual a importância da troca anual de 30% dos favos e como isso impacta a sanidade e a produtividade da colônia?  
+:memo: **Objetivo:** Foca na manutenção preventiva e renovação biológica
 
-**Pergunta:** Quais os riscos e as técnicas de manejo durante a 'entressafra' para evitar o abandono ou a morte do enxame por inanição?
+#### 💡 Propriedades Bioativas e Aplicações Clínicas
 
-**Objetivo:** Aborda a alimentação suplementar energética e proteica.
+**Pergunta:** Quais os mecanismos bioquímicos que tornam o mel superior aos curativos convencionais no tratamento de queimaduras e feridas cirúrgicas infectadas?  
+:memo: **Objetivo:** Esta pergunta extrai dados das revisões da Cochrane e estudos clínicos sobre osmolaridade e peróxido de hidrogênio.
 
-**Pergunta:** Como funciona a técnica da 'caixa isca' para capturar enxames de graça e qual o melhor período para isso no Cerrado vs. Nordeste?
+**Pergunta:** Como o ácido 10-HDA da Geleia Real atua na imunomodulação humana e quais evidências existem para o tratamento de diabetes?  
+:memo: **Objetivo:** Conecta a biologia da rainha com benefícios metabólicos documentados.
 
-**Objetivo:** Explora a economia no material biológico e o calendário apícola.
+**Pergunta:** De que forma o veneno de abelha (apitoxina) e a melitina estão sendo utilizados no tratamento de acne grave e doenças oncológicas?  
+:memo: **Objetivo:** Explora as fronteiras da apiterapia moderna e nanotecnologia.
 
-**Pergunta:** Qual a importância da troca anual de 30% dos favos e como isso impacta a sanidade e a produtividade da colônia?
+#### 💡 Visão Estratégica e Futuro (Apicultura 4.0)
 
-**Objetivo:** Foca na manutenção preventiva e renovação biológica
+**Pergunta:** O que é a 'Apicultura 4.0' e como o uso de sensores IoT e rastreabilidade via blockchain pode abrir o mercado europeu para o produtor brasileiro?  
+:memo: **Objetivo:** Foca na modernização tecnológica e exigências de exportação.
 
-Propriedades Bioativas e Aplicações Clínicas
-
-**Pergunta:** Quais os mecanismos bioquímicos que tornam o mel superior aos curativos convencionais no tratamento de queimaduras e feridas cirúrgicas infectadas?
-
-**Objetivo:** Esta pergunta extrai dados das revisões da Cochrane e estudos clínicos sobre osmolaridade e peróxido de hidrogênio.
-
-**Pergunta:** Como o ácido 10-HDA da Geleia Real atua na imunomodulação humana e quais evidências existem para o tratamento de diabetes?
-
-**Objetivo:** Conecta a biologia da rainha com benefícios metabólicos documentados.
-
-**Pergunta:** De que forma o veneno de abelha (apitoxina) e a melitina estão sendo utilizados no tratamento de acne grave e doenças oncológicas?
-
-**Objetivo:** Explora as fronteiras da apiterapia moderna e nanotecnologia.
-
-Visão Estratégica e Futuro (Apicultura 4.0)
-
-**Pergunta:** O que é a 'Apicultura 4.0' e como o uso de sensores IoT e rastreabilidade via blockchain pode abrir o mercado europeu para o produtor brasileiro?
-
-**Objetivo:** Foca na modernização tecnológica e exigências de exportação.
-
-**Pergunta:** Como a polinização dirigida pode aumentar a produtividade de culturas como o abacate em até 800% e gerar renda passiva para o apicultor?
-
-**Objetivo:** Aborda o serviço ambiental como modelo de negócio.
+**Pergunta:** Como a polinização dirigida pode aumentar a produtividade de culturas como o abacate em até 800% e gerar renda passiva para o apicultor?  
+:memo: **Objetivo:** Aborda o serviço ambiental como modelo de negócio.
